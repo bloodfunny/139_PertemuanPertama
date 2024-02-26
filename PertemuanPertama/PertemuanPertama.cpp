@@ -13,6 +13,10 @@ int main()
 
     double nJejari, nLuas;
     cout << "masukan Jejari=";
+    cin >> nJejari;
+    nLuas = 3, 14 * nJejari * nJejari;
+    cout << "Luasnya = " << nLuas << endl; 
+
 
         system("pause");
 }
