@@ -7,14 +7,14 @@ int main()
          // numeric njejari, nluas
          // display 'masukan jejari= '
          // accept njejari
-         // compute  nLuas = 3,14 * r * r
+         // compute  nLuas = 3.14 * r * r
          // display 'luasnya= ' + nluas
     // end 
 
     double nJejari, nLuas;
     cout << "masukan Jejari=";
     cin >> nJejari;
-    nLuas = 3, 14 * nJejari * nJejari;
+    nLuas = 3.14 * nJejari * nJejari;
     cout << "Luasnya = " << nLuas << endl; 
 
 
